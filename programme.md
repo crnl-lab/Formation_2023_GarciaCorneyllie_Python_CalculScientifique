@@ -22,7 +22,7 @@
   * **seaborn_base** Alex 20min
   * **neo** Sam 15min
   * **ephyviewer** Sam 15min
-   * **Exo avec EEG** Alex 2h00
+  * **Exo avec EEG** Alex 2h00
 
 
 **Jeudi 30 Mars 2023**
