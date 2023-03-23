@@ -2,3 +2,6 @@
 **/cache_folder/**
 notebooks/Data_exo_final/**
 notebooks/*.svg
+notebooks/*.txt
+notebooks/*.npy
+
