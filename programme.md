@@ -1,11 +1,10 @@
 
 **Mardi 28 Mars 2023**
    
-   * **intro python/anaconda** 20min Sam 9h30 - 9h50
-   * **jupyter/jupyterlab vs IDE** 20min Sam 9h50 - 10h10
+   * **intro python/anaconda** 20min Sam
+   * **jupyter/jupyterlab vs IDE** 20min Sam
    * **Base_language** Alex 1h
    * **loop_index_slice** Sam 45min
-        REVOIR BEAUCOUP EXO
    * **numpy_base**  Alex 30min
 
    * **numpy_indexing**  Alex 45min
