@@ -7,4 +7,6 @@ notebooks/*.npy
 notebooks/*.h5
 notebooks/*.xlsx
 
+notebooks/*.nc
+notebooks/example.zarr/*
 

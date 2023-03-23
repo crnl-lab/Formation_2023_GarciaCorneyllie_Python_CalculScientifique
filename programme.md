@@ -28,7 +28,7 @@
 **Jeudi 30 Mars 2023**
 
    * **sklearn** Sam 1h
-   * **Formula_statsmodels** Sam 30min
+   * **Formula_statsmodels** Sam 15min
    * **xarray** Sam 40min
    * **Exo final** Sam 1h
 
