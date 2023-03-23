@@ -4,4 +4,7 @@ notebooks/Data_exo_final/**
 notebooks/*.svg
 notebooks/*.txt
 notebooks/*.npy
+notebooks/*.h5
+notebooks/*.xlsx
+
 
