@@ -20,6 +20,7 @@ dependencies:
   - xlwt
   - openpyxl
   - ipympl
+  - pytables
   - pip:
     - ephyviewer
     - neo
