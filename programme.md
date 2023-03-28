@@ -5,8 +5,8 @@
    * **jupyter/jupyterlab vs IDE** 20min Sam
    * **Base_language** Alex 1h
    * **loop_index_slice** Sam 45min
+   
    * **numpy_base**  Alex 30min
-
    * **numpy_indexing**  Alex 45min
    * **numpy_advance** Sam  40min
    * **matplotlib_base** Sam 1h

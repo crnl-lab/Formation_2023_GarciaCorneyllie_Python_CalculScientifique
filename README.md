@@ -7,6 +7,6 @@ Amis de strasbourg et d'ailleurs sentez vous libre de tout prendre pour prépare
 Pour créer l'environement sous anaconda il faut faire ça
 
 ```bash
-conda env --file environement_formation_2023.yaml
+conda env create --file environement_formation_2023.yaml
 ```
 
